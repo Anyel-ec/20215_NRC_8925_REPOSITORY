@@ -3,6 +3,7 @@ using namespace std;
 
 int main (){
 cout <<"Hola Mundo por Angel PD"
+cout <<"Programacion Orientada a Objetos"
 cout <<"POO"
 return 0;
 }
